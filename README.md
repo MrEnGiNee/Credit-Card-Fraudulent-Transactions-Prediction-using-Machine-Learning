@@ -4,8 +4,11 @@ Welcome to our GitHub repository dedicated to Fraud Detection and Transaction An
 🔍 Key Features:
 
 Data Preprocessing: Our repository includes sophisticated techniques to transform non-uniform data into uniform data, ensuring consistency and compatibility for further analysis.
+
 Data Segregation: We have developed efficient tools to segregate Kaggle datasets into distinct categories of fraud and normal transactions, forming the foundation for our fraud detection model.
+
 Model Training and Evaluation: Using logistic regression, we create test and training datasets by separating input features (X) and target variables (Y). Our logistic regression model is then trained to predict fraudulent transactions accurately. We rigorously evaluate the model's accuracy using unseen real-world data to ensure its reliability.
+
 Exploratory Data Analysis: We visualize transaction class distribution, transaction amounts, and occurrence times to gain insights into transaction patterns.
 
 This GitHub repository contains code and tools for analyzing credit card transactions, aiming to identify potential cases of fraud and determine the correlation between fraud and normal transactions.
