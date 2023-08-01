@@ -23,7 +23,7 @@ This GitHub repository contains code and tools for analyzing credit card transac
 
 	•To address the issue of imbalanced data, under-sampling is applied, leading to the creation of a balanced dataset with an equal number of fraudulent and normal transactions. This balanced dataset ensures that the logistic regression model does not favor the majority class, contributing to more reliable predictions for both classes.
 
-Overall, this GitHub repository provides a comprehensive approach to credit card fraud detection using logistic regression and exploratory data analysis. By leveraging machine learning techniques and data preprocessing methods, the model can effectively identify fraudulent transactions and provide valuable insights for enhancing security measures. The achieved accuracy showcases the model's robustness in handling real-world credit card transaction data, making it a valuable tool for credit card companies and customers to safeguard against fraudulent activities.
+Overall, this GitHub repository provides a comprehensive approach to credit card fraud detection using logistic regression and exploratory data analysis. By leveraging machine learning techniques and data preprocessing methods, the model can effectively identify fraudulent transactions and provide valuable insights for enhancing security measures. The achieved accuracy (92-94% in both training and test data resolves the problem of overfiiting and underfitting of the model) showcases the model's robustness in handling real-world credit card transaction data, making it a valuable tool for credit card companies and customers to safeguard against fraudulent activities.
 
 📈 Benefits:
 
